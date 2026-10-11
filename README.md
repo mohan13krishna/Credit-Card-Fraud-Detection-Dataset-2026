@@ -170,7 +170,7 @@ CC0: Public Domain. Free for academic, commercial, and personal use.
 
 **Mohan Krishna Thalla**
 - Kaggle: https://www.kaggle.com/mohankrishnathalla
-- Dataset: https://www.kaggle.com/datasets/mohankrishnathalla/credit-card-fraud-detection-2026
+- Dataset: [https://www.kaggle.com/datasets/mohankrishnathalla/credit-card-fraud-detection-2026](https://www.kaggle.com/datasets/mohankrishnathalla/credit-card-fraud-detection-dataset-2026)
 
 ---
 
